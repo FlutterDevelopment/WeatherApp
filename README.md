@@ -15,5 +15,8 @@ A new Flutter project.A simple weather app built with Flutter. Enter a city name
 In this project, I've used OpenWeatherMap Api to achieve the details of weather.
 You just have to enter city name in the textfield and click on search it will navigates you to the weather detail screen.
 
+# Video Example
+https://github.com/FlutterDevelopment/WeatherApp/assets/157206427/bfaff421-1f60-4e87-9711-51d45430e4be
+
 
 
