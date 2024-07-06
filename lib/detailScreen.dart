@@ -12,7 +12,7 @@ class Detailscreen extends StatefulWidget {
 
 class _DetailscreenState extends State<Detailscreen> {
   Weather? w;
-  WeatherFactory wf = WeatherFactory("62bc2c6655edd8bff0883c4fc16b002e");
+  WeatherFactory wf = WeatherFactory("OpenweatherMap api key");
 
   @override
   Widget build(BuildContext context) {
