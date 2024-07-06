@@ -1,5 +1,7 @@
 # weatherapp
 
+Please just put your Openweatherapi key in detailscreen.dart file and the project will work perfectly.
+
 A new Flutter project.A simple weather app built with Flutter. Enter a city name on the Home Screen to see the weather details on the Detail Screen.
 
 ## Features
