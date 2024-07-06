@@ -1,18 +1,19 @@
 # weatherapp
 
-A new Flutter project.
+A new Flutter project.A simple weather app built with Flutter. Enter a city name on the Home Screen to see the weather details on the Detail Screen.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Search weather by city name
+- Display current weather information
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Home Screen: Enter a city name.
+2. Detail Screen: View the weather details.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# WeatherApp
-# WeatherApp
+In this project, I've used OpenWeatherMap Api to achieve the details of weather.
+You just have to enter city name in the textfield and click on search it will navigates you to the weather detail screen.
+
+
+
